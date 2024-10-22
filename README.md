@@ -14,11 +14,10 @@ combinando ambos mundos para crear soluciones creativas y visuales.
   
 ---
 
-## 💡 Lo que me inspira
-- 🔍 **Exploración científica**: Me apasiona entender el mundo físico y encontrar aplicaciones innovadoras de la ciencia.
-- 🎨 **Arte digital**: Mi experiencia como ilustrador me permite combinar lo técnico y lo creativo. He trabajado con marcas y entidades, diseñando desde murales hasta identidades visuales.
----
-
+🌞 Morning                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+🌆 Daytime                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌃 Evening                287 commits         ██████████████████░░░░░░░   70.00 % 
+🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 ## 🌐 Encuéntrame en la red:
 - **Instagram**: [@tu_instagram]([https://www.instagram.com](https://www.instagram.com/jefferson_quiguantar/))
