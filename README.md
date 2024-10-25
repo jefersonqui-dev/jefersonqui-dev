@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jeferson Quiguantar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=635&lines=%E2%80%9CHello%2C+World!%E2%80%9D%3A+a+programming+tradition;+Its+origin+dates+back+to+1972;used+in+a+C+manual+by+Brian+Kernighan%2C;symbolizes+the+beginning+of+the+learning+journey;in+any+new+programming+language." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=4000&pause=150&color=F7B01C&background=00181600&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=535&lines=The+goal+is+not+always+meant;to+be+achieved%2C;it+often+serves+simply+as;a+goal+to+aim+for.%22+Bruce+Lee" alt="Typing SVG" /></a>
 </p>
 
 
