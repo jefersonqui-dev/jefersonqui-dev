@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jeferson Quiguantar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=The+goal+is+not+always+meant+to+be+achieved%2C;it+often+serves+simply+as+a+goal+to+aim+for.%22+Bruce+Lee;.+.+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=540&lines=The+goal+is+not+always+meant+to+be+achieved%2C;it+often+serves+simply+as+a+goal+to+aim+for.%22+Bruce+Lee;.+.+." alt="Typing SVG" /></a>
 </p>
 
 
