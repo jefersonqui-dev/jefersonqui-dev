@@ -72,7 +72,9 @@
     <br>
     <br>
      <img src="https://skillicons.dev/icons?i=vscode&perline=4" />  
-  </kbd>  
+  </kbd> 
+      <br>
+    <br>
     <kbd>
     <kbd>Design</kbd>
     <br>
