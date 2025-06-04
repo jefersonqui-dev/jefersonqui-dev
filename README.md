@@ -1,6 +1,6 @@
 # Hola 👋
 
-✨ **Estudiante de DevSeniorCode Academy**
+✨ **Full Stack Junior **
 
 🪐 Mi sitio web: []()
 
