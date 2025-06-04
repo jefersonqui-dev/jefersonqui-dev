@@ -1,6 +1,6 @@
 # Hola 👋
 
-✨ **Full Stack Junior **
+✨ **Full Stack Junior**
 
 🪐 Mi sitio web: []()
 
