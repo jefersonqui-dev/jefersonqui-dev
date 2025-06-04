@@ -22,15 +22,14 @@
     <br>
     <img src="https://skillicons.dev/icons?i=py,java,matlab,cpp&perline=4" />  
   </kbd>   
-
+   <br>
+    <br>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=mysql&perline=4" />  
-  </kbd>
-    <br>
-    <br>
+  </kbd>    
     <kbd>
     <kbd>Front-end</kbd>
     <br>
