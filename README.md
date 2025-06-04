@@ -15,7 +15,7 @@
 <td width="50%" align="left">
   
 <p style="display: inline-block;" align="center">
-  Camino a ser Senior Full Stack Developer: Porque dominar solo un universo ya no es suficiente. 😉 <br></br>
+  🚀 Full Stack Explorer<br></br>
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -84,11 +84,7 @@
 </p>   
 </td>
 
-<td width="50%" align="center">
 
- <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
   </td>
 </tr>
 </table>
