@@ -28,7 +28,7 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql&perline=4" />  
+    <img src="https://skillicons.dev/icons?i=mysql&perline=4" /> 
   </kbd>    
     <kbd>
     <kbd>Front-end</kbd>
@@ -45,22 +45,7 @@
   
   <br>
   <br>
-  <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,numpy&perline=2" />   
-  </kbd>
- 
-  <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=git&perline=4" />  
-  </kbd>
-    <br>
-  <br>
-  <kbd>
+   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
     <br>
@@ -72,8 +57,6 @@
     <br>
      <img src="https://skillicons.dev/icons?i=vscode&perline=4" />  
   </kbd> 
-      <br>
-    <br>
     <kbd>
     <kbd>Design</kbd>
     <br>
