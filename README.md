@@ -12,7 +12,7 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="80%" align="left">
   
 <p style="display: inline-block;" align="center">
   🚀 Full Stack Explorer<br></br>
